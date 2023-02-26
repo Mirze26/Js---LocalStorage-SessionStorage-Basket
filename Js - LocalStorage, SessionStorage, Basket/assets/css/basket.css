@@ -1,0 +1,41 @@
+body {
+    background-color: coral
+}
+
+#navbarr {
+    background-color:black;
+}
+
+#navbarr a {
+    color: aqua;
+    margin-left: 30px;
+}
+
+#navbarr .icon-nav a {
+    text-decoration: none;
+    font-size: 25px;
+    margin-right: 30px;
+    color: red;
+}
+
+.icon-nav .number {
+    color: red;
+    position: relative;
+    top: -20px;
+    right: 27px;
+}
+
+
+.container h1 {
+    text-align: center;
+    color: black;
+}
+
+#basket .table{
+    margin-top: 40px;
+}
+
+tbody img{
+    width: 100px;
+    height: 100px;
+}
